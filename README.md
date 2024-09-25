@@ -1,5 +1,5 @@
 # Passing Thoughts
-
+https://daniellefiene.github.io/React-thought-app/
 ## Overview
 
 **Passing Thoughts** is a simple React application that allows users to capture and display fleeting thoughts. Users can add new thoughts that will automatically expire and be removed after 15 seconds. This project demonstrates the use of React's state management and component-based architecture, providing a user-friendly interface for thought management.
